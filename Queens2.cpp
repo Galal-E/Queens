@@ -1,7 +1,6 @@
 #include <iostream>
 #include "Queens2.h"
 
-using name space std;
 
  int board[N][N];
    for(int i = 0; i<N; i++)

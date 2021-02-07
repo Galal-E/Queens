@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Queens1.h"
 
-using namespace std;
+
 bool Solution(int board[N][N], int col) {
    if (col >= N)
       return true;
