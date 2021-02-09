@@ -1,6 +1,6 @@
 #include <iostream>
+#include "Working.h"
 #include "Queens1.h"
-
 
 bool Solution(int board[N][N], int col) {
    if (col >= N)
